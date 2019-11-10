@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="Buscar">Buscar</string>
+    <string name="cargar_web">Introduce la pagina web</string>
+</resources>
